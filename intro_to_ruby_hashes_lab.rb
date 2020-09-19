@@ -1,2 +1,3 @@
 def new_hash
-  monopoly = {
+  monopoly = {railroads: {}}
+end
