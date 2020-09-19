@@ -15,7 +15,7 @@ def monopoly_with_second_tier
   }
 end
 
-ef monopoly_with_third_tier
+def monopoly_with_third_tier
   	  monopoly =  {:railroads=>	{:pieces=> 4,
       :rent_in_dollars=>
         {
